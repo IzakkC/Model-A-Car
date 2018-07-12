@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A80FC23520F6708000C003B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80FC23420F6708000C003B9 /* main.swift */; };
 		A80FC25920F7AB1400C003B9 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80FC25820F7AB1400C003B9 /* Car.swift */; };
+		A80FC25E20F7D66A00C003B9 /* Sorento.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80FC25D20F7D66A00C003B9 /* Sorento.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		A80FC23120F6708000C003B9 /* model a car */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "model a car"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A80FC23420F6708000C003B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A80FC25820F7AB1400C003B9 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		A80FC25D20F7D66A00C003B9 /* Sorento.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sorento.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				A80FC23420F6708000C003B9 /* main.swift */,
 				A80FC25820F7AB1400C003B9 /* Car.swift */,
+				A80FC25D20F7D66A00C003B9 /* Sorento.swift */,
 			);
 			path = "model a car";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				A80FC25920F7AB1400C003B9 /* Car.swift in Sources */,
 				A80FC23520F6708000C003B9 /* main.swift in Sources */,
+				A80FC25E20F7D66A00C003B9 /* Sorento.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

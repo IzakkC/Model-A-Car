@@ -19,6 +19,13 @@ myCar.crash()
 myCar.honk()
 myCar.openDoors()
 
+let newCar = Sorento(make: "Kia", model: "Sorento", numOfDoors: 4, seating: 4, horsePower: 200, engineSize: "V6", color: "Red", hasGas: false, tintedWindows: true, spoiler: true, sunRoof: true)
+
+print(newCar.sunRoof)
+
+newCar.openSunRoof()
+
+
 
 
 
