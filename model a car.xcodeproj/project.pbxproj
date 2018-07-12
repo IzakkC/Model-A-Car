@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A80FC23520F6708000C003B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80FC23420F6708000C003B9 /* main.swift */; };
+		A80FC25920F7AB1400C003B9 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80FC25820F7AB1400C003B9 /* Car.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		A80FC23120F6708000C003B9 /* model a car */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "model a car"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A80FC23420F6708000C003B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A80FC25820F7AB1400C003B9 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A80FC23420F6708000C003B9 /* main.swift */,
+				A80FC25820F7AB1400C003B9 /* Car.swift */,
 			);
 			path = "model a car";
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A80FC25920F7AB1400C003B9 /* Car.swift in Sources */,
 				A80FC23520F6708000C003B9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
